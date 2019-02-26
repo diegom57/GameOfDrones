@@ -1,0 +1,12 @@
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.Model\bin\Debug\netcoreapp2.2\GameOfDrones.Model.deps.json
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.Model\bin\Debug\netcoreapp2.2\GameOfDrones.Model.dll
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.Model\bin\Debug\netcoreapp2.2\GameOfDrones.Model.pdb
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.Model\obj\Debug\netcoreapp2.2\GameOfDrones.Model.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.Model\obj\Debug\netcoreapp2.2\GameOfDrones.Model.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.Model\obj\Debug\netcoreapp2.2\GameOfDrones.Model.AssemblyInfo.cs
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.Model\obj\Debug\netcoreapp2.2\GameOfDrones.Model.dll
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.Model\obj\Debug\netcoreapp2.2\GameOfDrones.Model.pdb
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.Model\obj\Debug\netcoreapp2.2\GameOfDrones.Model.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.Model\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.Model\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.Model\obj\Debug\netcoreapp2.2\GameOfDrones.Model.csproj.CopyComplete

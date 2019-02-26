@@ -1,0 +1,16 @@
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.Domain\bin\Release\netcoreapp2.2\GameOfDrones.Domain.deps.json
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.Domain\bin\Release\netcoreapp2.2\GameOfDrones.Domain.dll
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.Domain\bin\Release\netcoreapp2.2\GameOfDrones.Domain.pdb
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.Domain\bin\Release\netcoreapp2.2\GameOfDrones.DataAccess.dll
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.Domain\bin\Release\netcoreapp2.2\GameOfDrones.Model.dll
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.Domain\bin\Release\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.Domain\bin\Release\netcoreapp2.2\GameOfDrones.DataAccess.pdb
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.Domain\bin\Release\netcoreapp2.2\GameOfDrones.Model.pdb
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.Domain\bin\Release\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.Domain\obj\Release\netcoreapp2.2\GameOfDrones.Domain.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.Domain\obj\Release\netcoreapp2.2\GameOfDrones.Domain.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.Domain\obj\Release\netcoreapp2.2\GameOfDrones.Domain.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.Domain\obj\Release\netcoreapp2.2\GameOfDrones.Domain.AssemblyInfo.cs
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.Domain\obj\Release\netcoreapp2.2\GameOfDrones.Domain.csproj.CopyComplete
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.Domain\obj\Release\netcoreapp2.2\GameOfDrones.Domain.dll
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.Domain\obj\Release\netcoreapp2.2\GameOfDrones.Domain.pdb

@@ -1,0 +1,11 @@
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.DataAccess\bin\Release\netcoreapp2.2\GameOfDrones.DataAccess.deps.json
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.DataAccess\bin\Release\netcoreapp2.2\GameOfDrones.DataAccess.runtimeconfig.json
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.DataAccess\bin\Release\netcoreapp2.2\GameOfDrones.DataAccess.runtimeconfig.dev.json
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.DataAccess\bin\Release\netcoreapp2.2\GameOfDrones.DataAccess.dll
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.DataAccess\bin\Release\netcoreapp2.2\GameOfDrones.DataAccess.pdb
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.DataAccess\obj\Release\netcoreapp2.2\GameOfDrones.DataAccess.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.DataAccess\obj\Release\netcoreapp2.2\GameOfDrones.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.DataAccess\obj\Release\netcoreapp2.2\GameOfDrones.DataAccess.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.DataAccess\obj\Release\netcoreapp2.2\GameOfDrones.DataAccess.AssemblyInfo.cs
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.DataAccess\obj\Release\netcoreapp2.2\GameOfDrones.DataAccess.dll
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.DataAccess\obj\Release\netcoreapp2.2\GameOfDrones.DataAccess.pdb

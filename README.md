@@ -1,2 +1,0 @@
-# GameOfDrones
-Game of drones

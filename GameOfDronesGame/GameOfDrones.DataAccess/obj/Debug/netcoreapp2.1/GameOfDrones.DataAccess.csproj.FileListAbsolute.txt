@@ -1,0 +1,6 @@
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.DataAccess\bin\Debug\netcoreapp2.1\GameOfDrones.DataAccess.deps.json
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.DataAccess\bin\Debug\netcoreapp2.1\GameOfDrones.DataAccess.dll
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.DataAccess\obj\Debug\netcoreapp2.1\GameOfDrones.DataAccess.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.DataAccess\obj\Debug\netcoreapp2.1\GameOfDrones.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.DataAccess\obj\Debug\netcoreapp2.1\GameOfDrones.DataAccess.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.DataAccess\obj\Debug\netcoreapp2.1\GameOfDrones.DataAccess.AssemblyInfo.cs

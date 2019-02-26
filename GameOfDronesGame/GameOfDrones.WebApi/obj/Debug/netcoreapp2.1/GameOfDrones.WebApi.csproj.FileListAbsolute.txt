@@ -1,0 +1,14 @@
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.WebApi\bin\Debug\netcoreapp2.1\GameOfDrones.WebApi.deps.json
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.WebApi\bin\Debug\netcoreapp2.1\GameOfDrones.WebApi.runtimeconfig.json
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.WebApi\bin\Debug\netcoreapp2.1\GameOfDrones.WebApi.runtimeconfig.dev.json
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.WebApi\bin\Debug\netcoreapp2.1\GameOfDrones.WebApi.dll
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.WebApi\bin\Debug\netcoreapp2.1\GameOfDrones.WebApi.pdb
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.WebApi\obj\Debug\netcoreapp2.1\GameOfDrones.WebApi.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.WebApi\obj\Debug\netcoreapp2.1\GameOfDrones.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.WebApi\obj\Debug\netcoreapp2.1\GameOfDrones.WebApi.RazorAssemblyInfo.cache
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.WebApi\obj\Debug\netcoreapp2.1\GameOfDrones.WebApi.RazorAssemblyInfo.cs
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.WebApi\obj\Debug\netcoreapp2.1\GameOfDrones.WebApi.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.WebApi\obj\Debug\netcoreapp2.1\GameOfDrones.WebApi.AssemblyInfo.cs
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.WebApi\obj\Debug\netcoreapp2.1\GameOfDrones.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.WebApi\obj\Debug\netcoreapp2.1\GameOfDrones.WebApi.dll
+C:\Users\diego\Desktop\GameOfDronesURUIT\GameOfDronesGame\GameOfDrones.WebApi\obj\Debug\netcoreapp2.1\GameOfDrones.WebApi.pdb

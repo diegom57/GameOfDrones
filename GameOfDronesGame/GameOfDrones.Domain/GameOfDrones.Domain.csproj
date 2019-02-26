@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GameOfDrones.DataAccess\GameOfDrones.DataAccess.csproj" />
+    <ProjectReference Include="..\GameOfDrones.Model\GameOfDrones.Model.csproj" />
+  </ItemGroup>
+
+</Project>
