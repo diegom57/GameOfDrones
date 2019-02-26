@@ -1,0 +1,65 @@
+<div class="row align-content-center">
+    <div class="col-12 col-md-6 ">
+        <app-player-detail [player]="this.playerOne" [roundWinners]="this.roundWinners"></app-player-detail>
+    </div>
+    <div class="col-12 col-md-6">
+        <app-player-detail [player]="this.playerTwo" [roundWinners]="this.roundWinners"></app-player-detail>
+
+    </div>
+</div>
+<div class="row text-center">
+    <div class="col-12 col-md-12">
+        <h1> {{getPlayerOneWonRounds()}} - {{getPlayerTwoWonRounds()}}</h1>
+    </div>
+</div>
+<div class="row text-center" *ngIf="this.activeRound">
+    <div class="col-12 col-md-12">
+        <h1>Round {{currentRound}}</h1>
+    </div>
+</div>
+<div *ngIf="this.activeRound" class="row text-center">
+    <div class="col-12 col-md-12">
+        <h2><b>{{currentPlayer.playerName}}</b> select your move: </h2>
+    </div>
+</div>
+<div *ngIf="this.activeRound" class="row align-content-center fadeIn">
+    <div class="col-12 col-md-4 noOutline">
+        <app-clickable-image-container [imgSrc]="rockImageSource" (click)="makeMove('R')"></app-clickable-image-container>
+    </div>
+    <div class="col-12 col-md-4">
+        <app-clickable-image-container [imgSrc]="scissorsImageSource" (click)="makeMove('S')"></app-clickable-image-container>
+    </div>
+    <div class="col-12 col-md-4 ">
+        <app-clickable-image-container [imgSrc]="paperImageSource" (click)="makeMove('P')"></app-clickable-image-container>
+    </div>
+</div>
+<div *ngIf="this.showRoundResult">
+    <div class="row text-center">
+        <div class="col-12 col-md-12">
+            <h1>Round result</h1>
+        </div>
+    </div>
+    <div class="row align-content-center fadeIn">
+
+        <div class="col-6 col-md-6">
+            <app-image-container [imgSrc]="currentMovePlayerOne == 'S'?scissorsImageSource:(currentMovePlayerOne=='P'?paperImageSource:rockImageSource)" ngi></app-image-container>
+        </div>
+        <div class="col-6 col-md-6">
+            <app-image-container [imgSrc]="currentMovePlayerTwo == 'S'?scissorsImageSource:(currentMovePlayerTwo=='P'?paperImageSource:rockImageSource)"></app-image-container>
+        </div>
+        <button (click)="carryOn()" class="btn btn-outline-primary btn-lg btn-block" type="button">Carry on!</button>
+    </div>
+</div>
+<div *ngIf="!this.activeGame && !this.activeRound">
+    <div class="row text-center">
+        <div class="col-12 col-md-12">
+            <h1>Game result</h1>
+        </div>
+    </div>
+    <div class="row text-center">
+        <div class="col-12 col-md-12">
+            <h2>{{winner.playerName}} has won!!!!</h2>
+        </div>
+    </div>
+    <button (click)="playAgain()" class="btn btn-outline-success btn-lg btn-block" type="button">Play again!</button>
+</div>

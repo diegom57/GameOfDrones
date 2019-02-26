@@ -1,0 +1,24 @@
+<div class="jumbotron">
+    <h1 class="display-4 ">Paper, Rock, Scissors</h1>
+    <p class="lead">Please enter player names</p>
+    <hr class="my-4">
+
+    <div class="form-group">
+        <label for="playerOneInput">Player 1</label>
+        <input type="input" class="form-control " [ngClass]="(isPlayerOneValid)?'':'is-invalid'" id="playerOneInput" placeholder="Player 1 name" #playerOne>
+        <div *ngIf="!isPlayerOneValid" class="invalid-feedback">
+            Player 1 name must not be empty
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="playerTwoInput">Player 2</label>
+        <input type="input" class="form-control" [ngClass]="(isPlayerTwoValid)?'':'is-invalid'" id="playerTwoInput" placeholder="Player 2 name" #playerTwo>
+        <div *ngIf="!isPlayerTwoValid" class="invalid-feedback">
+            Player 2 name must not be empty
+        </div>
+    </div>
+    <!-- <button type="input" class="btn btn-primary" >Submit</button> -->
+    <!-- <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a> -->
+    <!-- <a class="btn btn-primary btn-lg" [routerLink]="['gameScreen']">Start Game </a> -->
+    <button (click)="StartGame(playerOne.value, playerTwo.value)" class="btn btn-outline-primary btn-lg btn-block" type="button">Start Game</button>
+</div>

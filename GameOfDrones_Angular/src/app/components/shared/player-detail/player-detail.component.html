@@ -1,0 +1,28 @@
+<h1>{{this.player.playerName}}</h1>
+<ul class="list-group">
+    <li class="list-group-item d-flex justify-content-between align-items-center list-group-item-success">
+        Victories
+        <span class="badge badge-primary badge-pill">{{this.player.playerVictories}}</span>
+    </li>
+    <li class="list-group-item d-flex justify-content-between align-items-center list-group-item-danger">
+        Defeats
+        <span class="badge badge-primary badge-pill">{{this.player.playerDefeats}}</span>
+    </li>
+    <li class="list-group-item d-flex justify-content-between align-items-center list-group-item-info">
+        Total games
+        <span class="badge badge-primary badge-pill">{{this.player.playerTotalGames}}</span>
+    </li>
+    <li class="list-group-item d-flex justify-content-between align-items-center">
+        Streak
+        <span class="badge badge-primary badge-pill">{{this.player.playerStreak}}</span>
+    </li>
+</ul>
+<div class="row">
+    <div class="col-12 col-md-12">
+        <!-- <span class="badge badge-pill badge-light" [ngClass]="(roundWinners[0]==0)?'badge-light':((roundWinners[0]==this.player.playerId)?'badge-success':'badge-danger')">Round 1</span> -->
+        <span class="badge badge-pill" *ngFor="let round of roundWinners; let i = index" [ngClass]="(roundWinners[i]==0)?'badge-info':((roundWinners[i]==player.playerId)?'badge-success':'badge-danger')">Round {{i+1}}</span>
+        <!-- <span class="badge badge-pill" [ngClass]="(roundWinners[0]==0)?'badge-light':((roundWinners[0]==player.playerId)?'badge-success':'badge-danger')">Round 1</span>
+        <span class="badge badge-pill" [ngClass]="(roundWinners[1]==0)?'badge-light':((roundWinners[1]==player.playerId)?'badge-success':'badge-danger')">Round 2</span>
+        <span class="badge badge-pill" [ngClass]="(roundWinners[2]==0)?'badge-light':((roundWinners[2]==player.playerId)?'badge-success':'badge-danger')">Round 3</span> -->
+    </div>
+</div>
